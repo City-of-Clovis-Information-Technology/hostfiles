@@ -1,0 +1,17 @@
+0.0.0.0 cityofclovis.org
+0.0.0.0 lnks.gd # Forgot who needed this
+0.0.0.0 weather.com # Emergency Management Requirement
+0.0.0.0 mparticle.weather.com # Emergency Management Requirement
+0.0.0.0 eitanmedical.com # Drug Libraries for EMS
+0.0.0.0 ahainstructornetwork.com # Building Safety I think?
+
+## I don't think these are needed anymore, but going to keep these here as record.
+## The reason being was due to our issue with Vipre bricking Windows computers
+## And PiHole was the suspiscion
+
+# 0.0.0.0 go.microsoft.com
+# 0.0.0.0 microsoft.com
+# 0.0.0.0 mobile.pipe.aria.microsoft.com
+# 0.0.0.0 browser.pipe.aria.microsoft.com
+# 0.0.0.0 web.vortex.data.microsoft.com
+# 0.0.0.0 target.microsoft.com
