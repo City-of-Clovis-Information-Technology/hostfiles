@@ -4,6 +4,7 @@
 0.0.0.0 mparticle.weather.com # Emergency Management Requirement
 0.0.0.0 eitanmedical.com # Drug Libraries for EMS
 0.0.0.0 ahainstructornetwork.com # Building Safety I think?
+0.0.0.0 cdn.optimizely.com # For Docusign
 
 ## I don't think these are needed anymore, but going to keep these here as record.
 ## The reason being was due to our issue with Vipre bricking Windows computers
